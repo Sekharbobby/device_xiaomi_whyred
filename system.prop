@@ -75,8 +75,6 @@ ro.netflix.bsp_rev=Q660-13149-1
 #
 ro.vendor.use_data_netmgrd=true
 persist.vendor.data.mode=concurrent
-#system props for time-services
-persist.timed.enable=true
 
 # system property for maximum number of HFP client connections
 bt.max.hfpclient.connections=1
