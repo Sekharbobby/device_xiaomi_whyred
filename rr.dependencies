@@ -11,9 +11,9 @@
     "branch": "lineage-16.0"
   },
   {
-    "repository": "AOSiP-Devices/proprietary_vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
-    "branch": "pie",
+    "repository": "baalajimaestro/vendor_xiaomi_whyred",
+    "target_path": "vendor/xiaomi/whyred",
+    "branch": "9.8.1",
     "remote": "github"
   },
   {
