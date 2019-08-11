@@ -13,7 +13,7 @@
   {
     "repository": "baalajimaestro/vendor_xiaomi_whyred",
     "target_path": "vendor/xiaomi/whyred",
-    "branch": "9.8.1",
+    "branch": "9.8.8",
     "remote": "github"
   },
   {
