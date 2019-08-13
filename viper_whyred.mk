@@ -28,7 +28,7 @@ $(call inherit-product, vendor/rr/config/common_full_phone.mk)
 # Inherit from custom vendor
 $(call inherit-product, vendor/MiuiCamera/config.mk)
 
-PRODUCT_NAME := rr_whyred
+PRODUCT_NAME := viper_whyred
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := whyred
 PRODUCT_MANUFACTURER := Xiaomi
